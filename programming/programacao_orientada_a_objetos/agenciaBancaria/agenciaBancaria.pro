@@ -4,3 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp
+
+HEADERS += \
+    cliente.h \
+    conta.h \
+    agencia.h \
+    controller.h \
+    split.h
