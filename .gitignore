@@ -1,0 +1,21 @@
+# Build output
+*.o
+*.out
+*.bin
+*.exe
+*.class
+*.apk
+obj/
+bin/
+build/
+Debug/
+
+# IDE and tool caches
+.gradle/
+.idea/
+*.iml
+local.properties
+nbproject/private/
+
+# Credentials
+google-services.json
